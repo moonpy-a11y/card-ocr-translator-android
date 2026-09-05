@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Card OCR Translator</string>
+    <string name="camera_permission_required">Camera permission is required to capture card images</string>
+    <string name="storage_permission_required">Storage permission is required to access images</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="processing">Processing...</string>
+    <string name="original_text">Original Text</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="copy_text">Copy</string>
+    <string name="settings">Settings</string>
+    <string name="language_selection">Language Selection</string>
+</resources>
